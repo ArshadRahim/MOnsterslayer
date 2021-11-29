@@ -8,11 +8,16 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "foundation-sites": "^6.7.4",
+    "jquery": "^3.6.0",
+    "sass": "^1.43.4",
     "vue": "^2.6.11"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
     "@vue/cli-service": "~4.5.0",
+    "node-sass": "^6.0.1",
+    "sass-loader": "^10.2.0",
     "vue-template-compiler": "^2.6.11"
   },
   "browserslist": [
